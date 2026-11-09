@@ -1,0 +1,7 @@
+jupyterlab==4.5.11
+matplotlib==3.9.4
+numpy==2.0.2
+opencv-python==4.14.0.94
+pandas==2.3.3
+scikit-learn==1.6.1
+tensorflow==2.20.0
